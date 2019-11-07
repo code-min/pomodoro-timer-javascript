@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica';
+  text-align: center;
+}
+
+h1 {
+  background: black;
+  color: white;
+  margin: 0;
+  margin-bottom: 30px;
+  padding: 25px;
+  font-size: 40px;
+}
+
+button {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: white;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  background-color: #f8b22e;
+  
+  :hover {
+    cursor: pointer;
+  }
+
+  i {
+    margin-top: 50px;
+  }
+}
+
+p {
+  font-size: 50px;
+  margin-top: 30px;
+}
