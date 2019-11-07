@@ -3,7 +3,7 @@ let minutesSpan = document.querySelector(".minutes");
 let secondsSpan = document.querySelector(".seconds");
 let round = document.querySelector(".cycleCompleted");
 let seconds = 60;
-let minutes = 1;
+let minutes = 25;
 let timerStarted = false;
 let timer;
 let onBreak = false;
